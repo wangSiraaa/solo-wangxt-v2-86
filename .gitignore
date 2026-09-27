@@ -23,3 +23,9 @@ venv/
 __pycache__/
 .pytest_cache/
 .DS_Store
+
+# 本项目的运行时产物
+.pgsql/
+server/frontend_dist/
+server/django.log
+*.pyc
